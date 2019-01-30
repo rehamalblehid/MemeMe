@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow Meme App to access your camera</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow Meme App to access your photos</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow Meme App to access your photos</string>
 </dict>
 </plist>

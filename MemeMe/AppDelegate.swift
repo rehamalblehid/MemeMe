@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ImagePickerExperment
+//  MemeMe
 //
 //  Created by Reham on 08/11/2018.
 //  Copyright © 2018 Reham. All rights reserved.
@@ -12,7 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    var memes = [Meme]()
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
